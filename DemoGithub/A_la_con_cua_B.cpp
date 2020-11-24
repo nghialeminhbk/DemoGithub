@@ -35,5 +35,6 @@ int main(){
 	if(count==m){
 		cout << "A la con cua B";
 	}
+	cout << "Minh vua them mot dong moi vao code";
 	return 0;
 }
