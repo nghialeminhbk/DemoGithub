@@ -36,5 +36,6 @@ int main(){
 		cout << "A la con cua B";
 	}
 	cout << "Minh vua them mot dong moi vao code";
+	cout <<"Hello lai la minh day";
 	return 0;
 }
