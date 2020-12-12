@@ -20,7 +20,7 @@ int judge(int x){
 		return 0;
 	}
 }
-
+# Thêm chú thích
 int main(){
 	cin >> T;
 	int count=0;
